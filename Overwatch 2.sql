@@ -1,6 +1,6 @@
 # Overwatch 2 Data Analysis Portfolio
 
-Welcome to my Overwatch 2 data analysis portfolio! This repository contains data collected from my Overbuff profile and various analyses performed on it.
+// Welcome to my Overwatch 2 data analysis portfolio! This repository contains data collected from my Overbuff profile and various analyses performed on it.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -20,7 +20,7 @@ The following SQL table has been created to store the player performance data.
 ### Create SQL Table
 You can find the SQL script in the `sql/` directory.
 
-```sql
+//
     
 CREATE TABLE OverwatchStats (
     player_id INT PRIMARY KEY,
