@@ -1,1 +1,1 @@
-# Data-Analyst-SQL-Portfolio-
+# Data Analyst Portfolio Project Repository
