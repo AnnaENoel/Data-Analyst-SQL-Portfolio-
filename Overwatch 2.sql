@@ -21,6 +21,7 @@ The following SQL table has been created to store the player performance data.
 You can find the SQL script in the `sql/` directory.
 
 ```sql
+    
 CREATE TABLE OverwatchStats (
     player_id INT PRIMARY KEY,
     player_name VARCHAR(100),
